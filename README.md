@@ -1,6 +1,8 @@
 # Data-Wrangling-and-Exploratory-Analysis
-Project Summary for Customer Churn Analysis
+## Project Summary for Customer Churn Analysis
+
 Introduction:
+
 This project is one of the few capstone projects done at Masterschool and involves customer churn analysis for credit card services of a bank. The project goal is to analyse the provided data to understand the main reasons for the churning of customers as well as provide recommendations for how the bank can mitigate that by proactively implementing the recommendations to keep the customers from churning. 
 The provided data include.
  BankChurners.csv file; which contains basic information about each client’s relationship with the bank, basic_client_info.csv file which contains some basic demographic info and enriched_churn_data.csv file which contains some enriched data about each client.
